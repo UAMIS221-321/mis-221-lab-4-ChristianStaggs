@@ -1,0 +1,15 @@
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.AssemblyInfoInputs.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.AssemblyInfo.cs
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.csproj.CoreCompileInputs.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.sourcelink.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-4-ChristianStaggs
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-4-ChristianStaggs.deps.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-4-ChristianStaggs.runtimeconfig.json
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-4-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/bin/Debug/net8.0/mis-221-lab-4-ChristianStaggs.pdb
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/refint/mis-221-lab-4-ChristianStaggs.dll
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.pdb
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/mis-221-lab-4-ChristianStaggs.genruntimeconfig.cache
+/Users/christianstaggs/Documents/221/labs/mis-221-lab-4-ChristianStaggs/obj/Debug/net8.0/ref/mis-221-lab-4-ChristianStaggs.dll
